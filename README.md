@@ -53,3 +53,6 @@ This project simulates a real-time automated parking system using basic digital 
    - Duration calculated and used to compute fee.
    - Car count is decremented.
 
+##  Conclusion
+
+This project shows how digital logic can be used to build a simple and effective automated parking system. It handles car entry, exit, time tracking, and fee calculation using Multisim. While there are a few limitations, like handling one car at a time and a limited clock range, the system works well for small to medium parking areas. With some improvements, it could easily be scaled up for real-world use.
